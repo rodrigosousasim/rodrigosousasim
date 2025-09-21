@@ -140,13 +140,14 @@ Meu nome é Rodrigo, sou desenvolvedor fullstack com experiência no desenvolvim
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigosousasim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rodrigosousasim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosousasim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigosousasim&theme=tokyonight&hide_border=true" 
   />
+  
 </p>
