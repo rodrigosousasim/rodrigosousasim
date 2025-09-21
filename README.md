@@ -147,7 +147,7 @@ Meu nome é Rodrigo, sou desenvolvedor fullstack com experiência no desenvolvim
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rodrigosousasim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
@@ -155,7 +155,7 @@ Meu nome é Rodrigo, sou desenvolvedor fullstack com experiência no desenvolvim
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="160" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigosousasim&theme=tokyonight&hide_border=true" 
   />
   
